@@ -13,7 +13,7 @@
 .menu-container {
     padding-left: 1rem;
     padding-right: 1rem;
-    background-color: rgb(52, 123, 255);
+    background-color: #11a2e6e1;
     color: white;
     display: grid;
     grid-template-rows: 10rem 12rem 10rem;
@@ -135,7 +135,7 @@ input {
 }
 
 button {
-    background-color: rgb(52, 123, 255);
+    background-color: #11a2e6e1;
     border-style: none;
     border-radius: 20px;
     color: white;
