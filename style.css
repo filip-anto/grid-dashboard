@@ -168,7 +168,7 @@ article {
     border-left-color: orange;
     background-color: white;
     padding: 1em;
-    padding-right: 0.2em;
+    padding-right: 0.5em;
     gap:0.8em;
     grid-template-columns: auto 1.5rem 1.5rem 1.5rem;
 }
@@ -226,7 +226,7 @@ article>div:nth-child(4) {
     display: grid;
     grid-template-columns: 6rem 1fr;
     grid-template-rows:1rem 5rem;
-    padding-left: 0.5rem;
+    padding: 0.5rem;
     gap: 0.2rem;
 }
 .trend>img{
