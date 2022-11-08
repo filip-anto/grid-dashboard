@@ -65,6 +65,7 @@ font-size:1.8rem;
     display: grid;
     align-items: center;
     grid-template-columns: 3fr 2fr;
+    margin-bottom:1em;
 }
 
 .search-bar {
@@ -204,7 +205,6 @@ article>div:nth-child(4) {
 
 .announcement {
     padding: 2em;
-    border-bottom: 1px solid grey;
 }
 
 #trending {
@@ -233,4 +233,8 @@ article>div:nth-child(4) {
 h1 {
     padding-top: 1em;
     padding-bottom: 0.2em;
+}
+
+hr{
+    margin-top:0.4rem;
 }
